@@ -61,48 +61,43 @@
 
     <section>
         <h2>About Me</h2>
-        <p>I am [LOVE KUMAR SINGH],passionate about [RTL Design, Embedded Systems and Design and verification.]. I have expertise in various programming languages and technologies, which I continuously strive to improve and expand upon.</p>
+        <p>I am John Doe, a Digital Design Engineer passionate about VLSI Design, RTL Design, Embedded Systems, and Design and Verification. I have expertise in various programming languages and technologies, which I continuously strive to improve and expand upon.</p>
     </section>
 
     <section>
-        <h2>Other Skills</h3>
-        <ul class="skills-list">
-            <li style="color: #007bff;">>[Verilog HDL]</li>
-            <li style="color: #ff6347;">[System Verilog]</li>
-            <li style="color: #ffd700;>[C++]</li>
-            <li style="color: #ff69b4;">[Python]</li>
-            <li>[C++]</li>
-
-           
-        </ul>
-            <li>[Language 1]: [Proficiency Level (e.g., Intermediate, Advanced)]</li>
-            <li>[Language 2]: [Proficiency Level]</li>
-            <li>[Language 3]: [Proficiency Level]</li>
+        <h2>Skills</h2>
+        <h3>Programming Languages</h3>
+        <ul>
+            <li>Verilog: Advanced</li>
+            <li>VHDL: Intermediate</li>
+            <li>C/C++: Intermediate</li>
             <!-- Add more languages as needed -->
         </ul>
-        <h3>TOOLS & Technologies</h3>
-        <ul class="skills-list">
-            <li style="color: #007bff;">[Xilinx Vivado-Vitis]</li>
-            <li style="color: #ff6347;">[Silvaco TCAD]</li>
-            <li style="color: #32cd32;">[ESA 8086 Microprocessor]</li>
-            <li style="color: #ff69b4;">[ARM-Keil Microvision.]</li>
-            
-  </ul>
-       <h3>Hands-on</h3>
-        <ul class="skills-list">
-            <li style="color: #007bff;">[AMD Xilinx FPGA Artix-7]</li>
-            <li style="color: #ff6347;">[ ESA 8086 Microprocessor]</li>
-             </ul>
 
-     
+        <h3>Technologies/Frameworks</h3>
+        <ul>
+            <li>Xilinx Vivado: Advanced</li>
+            <li>ModelSim: Intermediate</li>
+            <li>ARM Cortex-M: Intermediate</li>
+            <!-- Add more technologies/frameworks as needed -->
+        </ul>
+
+        <h3>Other Skills</h3>
+        <ul>
+            <li>Problem Solving</li>
+            <li>Teamwork</li>
+            <li>Project Management</li>
+            <!-- Add more skills as needed -->
+        </ul>
     </section>
 
     <footer>
         <p>If you'd like to get in touch or collaborate, feel free to reach out:</p>
         <ul>
-            <li>Email: [lk22phc1r33@student.nitw.ac.in]</li>
-            <li>LinkedIn: [https://www.linkedin.com/in/lovekumar2/]</li>
-       
+            <li>Email: john.doe@example.com</li>
+            <li>LinkedIn: linkedin.com/in/johndoe</li>
+            <li>Twitter: @johndoe</li>
+            <li>Personal Website/Blog: johndoe.com</li>
         </ul>
     </footer>
 
