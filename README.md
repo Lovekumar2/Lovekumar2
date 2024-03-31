@@ -1,3 +1,4 @@
+<h1 align="center">Hi 👋, I'm LOVE KUMAR SINGH</h1>
 <p> 
 ---
 *I am passionate about RTL Design, Embedded Systems, and Design and Verification, based in India.*
@@ -29,15 +30,25 @@
 <h3 align="left"><i>Tools:</i></h3>
 <div display="flex">
  <p> <img src="https://img.shields.io/badge/DEEDS-0078D4?style=for-the-badge&logo=DEEDS&logoColor=white&labelColor=272e28">
-  <img src="https://img.shields.io/badge/LTSpice-0078D4?style=for-the-badge&logo=S&logoColor=white&labelColor=272e28">
-  <img src="https://img.shields.io/badge/Mentor_Graphics-ModelSim-12a8a0?style=for-the-badge&logo=Mentor&logoColor=white&labelColor=272e28">
-  <img src="https://img.shields.io/badge/Cadence-JasperGold-ad931e?style=for-the-badge&logo=Cadence&logoColor=white&labelColor=272e28"> <br/>
-  <img src="https://img.shields.io/badge/Cadence-Virtuoso-ad931e?style=for-the-badge&logo=Cadence&logoColor=white&labelColor=272e28"> 
+  <img src="https://img.shields.io/badge/LTSpice-0078D4?style=for-the-badge&logo=S&logoColor=white&labelColor=272e28"> 
   <img src="https://img.shields.io/badge/Xilinx-VIVADO-007D4?style=for-the-badge&logo=AMD&logoColor=white&labelColor=272e28">
   <img src="https://img.shields.io/badge/Xilinx-ISE-00784?style=for-the-badge&logo=AMD&logoColor=white&labelColor=272e28">
-  <img src="https://img.shields.io/badge/Intel-Quartus-c94f0d?style=for-the-badge&logo=INTEL&logoColor=white&labelColor=272e28">
-  <img src="https://img.shields.io/badge/Intel-QuetsaSim-c94f0d?style=for-the-badge&logo=INTEL&logoColor=white&labelColor=272e28">
+ <img src="https://img.shields.io/badge/Eda-playground-00784?style=for-the-badge&logo=Eda&logoColor=white&labelColor=272e28">
+<img src="https://img.shields.io/badge/Silvaco TCAD-00784?style=for-the-badge&logo=Silvaco&logoColor=white&labelColor=272e28">
+
+
+ 
   </p>
+#
+<h3 align="left"><i>Hands-On:</i></h3>
+<div display="flex">
+ 
+  <img src="https://img.shields.io/badge/:AMD Xilinx FPGA Artix-7-6e12d4?style=for-the-badge&logo=AMD&logoColor=white">
+  <img src="https://img.shields.io/badge/ ESA 8086 Microprocessor-990199?style=for-the-badge&logo=ESA&logoColor=white">
+
+</div>
+
+#
   <p>
   <img src="https://img.shields.io/badge/Github-0b260f?style=for-the-badge&logo=github&logoColor=00ff1f"/>
     <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
