@@ -1,5 +1,31 @@
-<h1 align="center">Hi 👋, I'm LOVE KUMAR SINGH</h1>
-<h3 align="center">A passionate RTL Design, Embedded Systems and Design and verification from India</h3>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hi, I'm LOVE KUMAR SINGH</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f2f2f2;
+            color: #333;
+        }
+
+        h1 {
+            text-align: center;
+            color: #007bff; /* Your desired color */
+        }
+
+        /* Other styles... */
+    </style>
+</head>
+<body>
+
+    <h1>Hi 👋, I'm LOVE KUMAR SINGH</h1>
+    <p align="center">A passionate about RTL Design, Embedded Systems and Design and verification from India />
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lovekumar2&label=Profile%20views&color=0e75b6&style=flat" alt="lovekumar2" /> </p>
 
