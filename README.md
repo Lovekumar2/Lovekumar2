@@ -83,3 +83,5 @@
 <!-- <a href="https://github.com/Lovekumar2">
     <img alt="views" title="GitHub profile views" src="https://kounter.tk/badge/Lovekumar2?label=&color=333&style=for-the-badge&cntSuffix=%20Views"/></a> -->
 </p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lovekumar2&show_icons=true&locale=en&layout=compact" alt="lovekumar2" /></p>
+
