@@ -43,7 +43,7 @@
 <h3 align="left"><i>Hands-On:</i></h3>
 <div display="flex">
  
-  <img src="https://img.shields.io/badge/:AMD Xilinx FPGA Artix-7-6e12d4?style=for-the-badge&logo=AMD&logoColor=white">
+  <img src="https://img.shields.io/badge/AMD Xilinx FPGA Artix 7-6e12d4?style=for-the-badge&logo=AMD&logoColor=white">
   <img src="https://img.shields.io/badge/ ESA 8086 Microprocessor-990199?style=for-the-badge&logo=ESA&logoColor=white">
 
 </div>
