@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm LOVE KUMAR SINGH</h1>
 <p> 
 ---
-*I am passionate about RTL Design, Embedded Systems, and Design and Verification, based in India.*
+<h3 align="center">I am passionate about RTL Design, Embedded Systems, and Design and Verification, based in India.</h3>
 <div>
 <details>
   <summary><strong>👨🏻‍💻 More about me</strong></summary>
