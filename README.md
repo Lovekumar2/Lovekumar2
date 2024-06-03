@@ -20,7 +20,7 @@
 <div display="flex">
  
   <img src="https://img.shields.io/badge/Verilog-6e12d4?style=for-the-badge&logo=v&logoColor=white">
-   <img src="https://img.shields.io/badge/VHDL-6e12d4?style=for-the-badge&logo=V&logoColor=white">
+   <img src="https://img.shields.io/badge/VHDL-6e12d4?style=for-the-badge&logo=&logoColor=white">
   <img src="https://img.shields.io/badge/System_Verilog-990199?style=for-the-badge&logo=SV&logoColor=white">
     <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=d9db26">
   <img src="https://img.shields.io/badge/C++%20-8a3529?&style=for-the-badge&logo=Cplusplus&logoColor=white">
