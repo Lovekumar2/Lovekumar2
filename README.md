@@ -37,6 +37,9 @@
 
   <img src="https://img.shields.io/badge/Xilinx-VIVADO-007D4?style=for-the-badge&logo=AMD&logoColor=white&labelColor=272e28">
   <img src="https://img.shields.io/badge/Multisim-00784?style=for-the-badge&logo=&logoColor=white&labelColor=272e28">
+    <img src="https://img.shields.io/badge/PETALINUX-007D4?style=for-the-badge&logo=AMD&logoColor=white&labelColor=272e28">
+    
+
  <img src="https://img.shields.io/badge/Eda-playground-00784?style=for-the-badge&logo=Eda&logoColor=white&labelColor=272e28">
 <img src="https://img.shields.io/badge/Silvaco TCAD-00784?style=for-the-badge&logo=Silvaco&logoColor=white&labelColor=272e28">
 <img src="https://img.shields.io/badge/ARM-Keil Microvision-00784?style=for-the-badge&logo=ARM&logoColor=white&labelColor=272e28">
