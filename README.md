@@ -22,7 +22,7 @@
   <img src="https://img.shields.io/badge/Verilog-6e12d4?style=for-the-badge&logo=v&logoColor=white">
    <img src="https://img.shields.io/badge/VHDL-6e12d4?style=for-the-badge&logo=&logoColor=white">
    <img src="https://img.shields.io/badge/UVM-6e12d4?style=for-the-badge&logo=&logoColor=white">
-  <img src="https://img.shields.io/badge/System_Verilog-990199?style=for-the-badge&logo=SV&logoColor=white">
+  <img src="https://img.shields.io/badge/SystemVerilog-990199?style=for-the-badge&logo=SV&logoColor=white">
   <img src="https://img.shields.io/badge/C++%20-8a3529?&style=for-the-badge&logo=Cplusplus&logoColor=white">
   
 </div>
